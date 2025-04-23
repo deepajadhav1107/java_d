@@ -11,8 +11,10 @@ class Demo
 
         System.out.println("Sum is : "+sum);
         System.out.println("Sub is : "+sub);
+        System.out.println("mul is : "+mul);
+        System.out.println("div is : "+div);
         System.out.println("Mul is : "+mul);
-        System.out.println("Div is : "+div);
+        System.out.println("Div is : "+div)
 
     }
 }
